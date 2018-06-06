@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.nothome:javaxdelta:2.0.1" type="repository">
+    <properties maven-id="com.nothome:javaxdelta:2.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/trove/trove/1.0.2/trove-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
